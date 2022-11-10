@@ -1,0 +1,65 @@
+
+.cuadradoPrincipal{
+    border: solid;
+    height: 550px;
+    background-image: url("https://arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/V5EX42LJEBCMLBR3QNAKTBFEZA.jpg");
+}
+
+.tituloprincipal
+{
+    position: absolute;
+    background-color: red;
+    color: white;
+    margin-left: 510px;
+}
+
+.vehiculos
+{
+    color: white;
+    position: absolute;
+    text-decoration: underline;
+    margin-left: 555px;
+    margin-top: 140px;
+    background-color: red;
+}
+
+
+
+.cuadradoVehiculo
+{
+    border: inset;
+    border-color: red;
+    float: left;
+    margin-top: 250px;
+    margin-left: 530px;
+    background-color: white;
+    border-width: 10px;
+}
+
+.agrv
+{
+    margin-top: 25px;
+}
+
+.modv
+{
+    margin-top: 25px;
+}
+
+.lisv
+{
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+
+.titulo
+{
+    color:white;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: red;
+    margin: 40px;
+}
+
+

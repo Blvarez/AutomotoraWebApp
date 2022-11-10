@@ -1,0 +1,56 @@
+/* 
+    Created on : 25-10-2022, 12:21:02
+    Author     : Branko Alvarez
+*/
+
+.cuadradoModificar{
+    border: solid;
+    height: 550px;
+    background-image: url("https://arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/V5EX42LJEBCMLBR3QNAKTBFEZA.jpg");
+}
+
+.botonInicio
+{
+    margin-left: 15px;
+    margin-top: 15px;   
+}
+
+.volverInicio
+{
+    background-color: red;
+    border: solid;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.tituloModi
+{
+    color: white;
+    background-color: red;
+    text-decoration: underline;
+    margin-left: 550px;
+    margin-top: 50px;
+    margin-right: 510px;
+}
+
+.tablaModii
+{
+    margin-top: 40px;
+    margin-left: 530px;
+    background-color: red;
+    border-color: white;
+}
+
+
+.botonModi
+{
+    margin-left: 610px;
+    color: white;
+    background-color: red;
+    margin-top: 15px;
+}
+
+.tituloModi
+{
+    color: white;
+}

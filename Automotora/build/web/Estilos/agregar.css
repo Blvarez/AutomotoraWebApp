@@ -1,0 +1,58 @@
+/* 
+    Created on : 25-10-2022, 09:06:49
+    Author     : Branko Alvarez
+*/
+
+.cuadradoAgregar{
+    border: solid;
+    height: 550px;
+    background-image: url("https://arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/V5EX42LJEBCMLBR3QNAKTBFEZA.jpg");
+    background-repeat: no-repeat;
+}
+
+.botonInicio
+{
+    margin-left: 15px;
+    margin-top: 15px;   
+}
+
+.volverInicio
+{
+    background-color: red;
+    border: solid;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+
+.tituloAgrr
+{
+    color: white;
+    text-decoration: underline;
+    margin-left: 550px;
+    margin-top: 100px;
+    margin-right: 510px;
+    background-color: red;
+}
+
+.tablaAgr
+{
+    margin-top: 40px;
+    margin-left: 530px;
+    background-color: red;
+}
+
+
+.botonAgr
+{
+    margin-left: 610px;
+    color: white;
+    background-color: red;
+    margin-top: 15px;
+}
+
+.tituloAgr
+{
+    color: white;
+}
+

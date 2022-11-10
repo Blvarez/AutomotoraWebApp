@@ -1,0 +1,80 @@
+/*CSS Document*/
+/*Maquetacion para mejorar apariencia de las vistas de usuarios*/
+/*contenedor*/
+#contenedor{
+    width: 1280px;
+    padding: 10px;
+    background:#999999;
+    margin:0 auto;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 3px 8px 1px rgba(0,0,0,0.3);
+    -moz-box-shadow:0px 3px 8px 1px rgba(0,0,0,0.3);
+    box-shadow: 0px 3px 8px 1px rgba(0,0,0,0.3);    
+}
+/*Reset de boby y de la html*/
+body,htmal{margin:0;padding:0;}
+/*Formato de texto*/
+body{font-family:Arial,Helvetica,sans-serif; font-size:14px;}
+/*Barra de control de aplicacion*/
+#barra{
+   padding:5px 20px;
+   background: #080808;
+   font-size: 18px;
+   color:#FFF;
+   -webkit-box-shadow: 0px 3px 8px 1px rgba(0,0,0,0.3);
+   -moz-box-shadow:0px 3px 8px 1px rgba(0,0,0,0.3);
+    box-shadow: 0px 3px 8px 1px rgba(0,0,0,0.3); 
+   margin-bottom: 20px;
+   overflow: hidden;
+   min-width: 1280px;
+}
+#barra ul/*Agregar una lista de arranques*/
+{ list-style: none;
+  padding:0px;
+  margin:0px;
+  float:left;  
+}
+#barra li/*Agregar arranques*/
+{ padding:2px;
+  margin:0px;
+  float:left;  
+}
+#barra a/*Asignacion de a href*/
+{ display: block;
+  height: 50px;
+  line-height: 20px;
+  text-decoration: none;
+  padding:0 5px;
+  padding:0px;
+  color:#FFF;
+  float:left;  
+  border-radius: 5px;
+}
+#barra a:hover/*Agregar resalto en el arranque*/
+{ color:#000;
+  background: #EFF;  
+}
+/*Ajuste de elemnetos cuadraticos tablas, grillas,etc,etc...*/
+table.gritable
+{ font-family:Arial,Helvetica,sans-serif; font-size:14px;
+  color:#333333;
+  border-width: 1px;
+  border-color: #666666;
+  border-collapse: collapse;    
+}
+table.gritable th /*Termplates*/
+{ border-width: 1px;
+  padding:8px;
+  border-style:solid;/*dotted*/
+  border-color: #666666;
+  background-color: #777777;
+  background-color: #DEDEDE;   
+}
+table.gritable td /*Data*/
+{ border-width: 1px;
+  padding:8px;
+  border-style:solid;/*dotted*/
+  border-color: #666666;
+  background-color: #FFFFFF;
+  text-align: center;   
+}
